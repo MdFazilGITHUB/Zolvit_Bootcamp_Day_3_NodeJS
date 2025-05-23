@@ -1,0 +1,21 @@
+{
+  "name": "zolvit_bootcamp_day_3_nodejs",
+  "version": "1.0.0",
+  "description": "- HTTP module  \r - Creating a basic HTTP server  \r - Serving HTML content",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MdFazilGITHUB/Zolvit_Bootcamp_Day_3_NodeJS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/MdFazilGITHUB/Zolvit_Bootcamp_Day_3_NodeJS/issues"
+  },
+  "homepage": "https://github.com/MdFazilGITHUB/Zolvit_Bootcamp_Day_3_NodeJS#readme"
+}
